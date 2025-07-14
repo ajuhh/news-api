@@ -5,17 +5,16 @@
 
 
 Migrate
-
 python manage.py migrate  
 
 
 install all the Python packages listed in the requirements.txt
 
-
 pip install -r requirements.txt
 
-Run the server
 
+
+Run the server
 python manage.py runserver
 
 
